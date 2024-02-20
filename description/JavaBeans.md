@@ -17,3 +17,14 @@
 생성된 자바빈즈를 사용<br>
 [TestPersonBean](..\src\main\java\com\chafy\learn\backend\javabeans\TestPersonBean.java)<br>
 [TestPersonBean : 깃허브용](/src/main/java/com/chafy/learn/backend/javabeans/TestPersonBean.java)<br>
+
+## 자바빈즈의 장점
+
+- 재사용성 : 자바빈즈는 한번 만들어 놓으면 언제든지 재사용할 수 있는 장점이 있어 빠른 개발에 적합합니다.
+- 상호 운용성 : 자바빈즈는 여러 자바 프레임워크와 호환이 되어 개발을 쉽게 할 수가 있습니다.
+- 사용의 편의성 : 자바빈즈의 생성은 private 필드를 선언하고 getter와 setter를 사용하여 데이터에 쉽게 접근하고 사용할 수 있습니다.
+- 그 외 IDE와 같은 툴에서는 자바빈즈의 구성요소를 쉽게 사용할 수 있도록 지원하고 있어 빠른 개발을 할 수가 있습니다.
+
+## 결론 
+자바빈즈는 재사용성과 상호운용성을 가지고 있기 때문에 어디서든 사용을 할 수가 있고 다른 프레임워크와 원활하게 통합할 수가 있습니다.
+그래서 자바빈즈를 잘 활용하면 개발을 효율적으로 할 수 있습니다.
