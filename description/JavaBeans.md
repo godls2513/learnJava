@@ -12,6 +12,8 @@
 ## 자바빈즈 사용 예시
 자바빈즈 생성<br>
 [PersonBean.java](..\src\main\java\com\chafy\learn\backend\javabeans\PersonBean.java)<br>
+[PersonBean.java : 깃허브용](/src/main/java/com/chafy/learn/backend/javabeans/PersonBean.java)<br>
 
 생성된 자바빈즈를 사용<br>
-[TestPersonBean](..\src\main\java\com\chafy\learn\backend\javabeans\TestPersonBean.java)
+[TestPersonBean](..\src\main\java\com\chafy\learn\backend\javabeans\TestPersonBean.java)<br>
+[TestPersonBean : 깃허브용](/src/main/java/com/chafy/learn/backend/javabeans/TestPersonBean.java)<br>
